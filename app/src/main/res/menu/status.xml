@@ -11,5 +11,9 @@
             <item android:id="@+id/statusprivacy" android:title="Status Privacy"></item>
             <item android:id="@+id/setting" android:title="Setting"></item>
 
+<<<<<<< HEAD
 
+=======
+//Heelo
+>>>>>>> b6f8f30 (Initial commit)
 </menu>
