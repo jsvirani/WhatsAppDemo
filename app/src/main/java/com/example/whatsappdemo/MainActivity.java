@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity implements NavigationBarView
         t1=findViewById(R.id.t1);
         vp=findViewById(R.id.vp);
         bn=findViewById(R.id.bn);
-      // Fragment1 f1 = new Fragment1();
+      // Fragment1 f1 = new Fragment1();//
         //Fragment2 f2 = new Fragment2();
         fm=new Fragement(getSupportFragmentManager());
         fm.add(new Fragment1(),"Chat");
