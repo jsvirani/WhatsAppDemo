@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/item0"
+        android:icon="@drawable/search_foreground"
+        android:title="Item 1"
+        app:showAsAction="always">
+    </item>
+            <item android:id="@+id/newgroup" android:title="New group"></item>
+            <item android:id="@+id/newbroadcast" android:title="New Broadcast"></item>
+            <item android:id="@+id/linkkeddevices" android:title="Linkked devices"></item>
+            <item android:id="@+id/starredmessages" android:title="Starred messages"></item>
+            <item android:id="@+id/payment" android:title="Payment"></item>
+            <item android:id="@+id/setting" android:title="Setting"></item>
+
+
+</menu>
